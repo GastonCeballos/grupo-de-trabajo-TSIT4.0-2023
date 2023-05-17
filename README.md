@@ -2,7 +2,7 @@
 Grupo de trabajo programacion TSIT4.0, Cohorte 2023
 
 Integrantes del grupo:
-carina casco,
-sugey romero,
-hugo mendoza,
-gaston ceballos,
+Carina Casco,
+Sugey Romero,
+Hugo Mendoza,
+Gaston Ceballos,
